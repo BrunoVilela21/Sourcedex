@@ -16,7 +16,7 @@ Normalização de URL: Adiciona automaticamente o protocolo https:// caso o usu�
 
 1. Clonar o repositório
 
-2. git clone https://github.com/Sourcedex
+2. git clone https://github.com/BrunoVilela21/Sourcedex.git
 
 3. Instalar dependências
 Este script utiliza as bibliotecas requests e beautifulsoup4. Instale-as via pip:
