@@ -54,7 +54,7 @@ def main():
     print_banner()  # Exibir o banner
 
     # Solicitar a URL ao usuário
-    user_input = input("Digite a URL que deseja testar (ex: www.exemplo.com): ")
+    user_input = input("Insira o Alvo (ex: www.exemplo.com): ")
     
     # Adicionar o prefixo 'https://' automaticamente, se necessário
     if not user_input.startswith("http://") and not user_input.startswith("https://"):
