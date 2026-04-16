@@ -1,4 +1,17 @@
 # Sourcedex
+<img width="466" height="330" alt="image" src="https://github.com/user-attachments/assets/d78d12c2-567d-4690-b467-c88437ba9997" />
+
+
+
+
+
+
+
+
+
+
+
+
 Um script em Python simples e eficiente para extrair URLs e identificar parâmetros de consulta (query strings) a partir de uma página web. Ideal para profissionais de segurança (Pentest), desenvolvedores e entusiastas de automação.
 
 O SourceDex analisa o código HTML de uma URL fornecida, identifica tags que contêm links (como <a>, <script>, <img>, etc.) e extrai todos os parâmetros encontrados. O script também simula um navegador real usando cabeçalhos HTTP personalizados para evitar bloqueios simples.
