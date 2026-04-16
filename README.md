@@ -34,7 +34,7 @@ mv sourcedex.py /usr/local/bin/sourcedex
 
 chmod +x /usr/local/bin/sourcedex
 
-Pronto, prode chamar o script de qualquer lugar apenas digitando sourcedex.
+Pronto, pode chamar o script de qualquer lugar apenas digitando sourcedex.
 
 
 
